@@ -45,3 +45,5 @@ The script will print a summary of server performance stats to the terminal, for
   - `top`
   - `free`
   - `df`
+### Project Page
+For more information, visit the project page: [Server Stats Project](https://roadmap.sh/projects/server-stats "Server Stats Project")
